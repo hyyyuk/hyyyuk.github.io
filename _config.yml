@@ -4,7 +4,7 @@ tagline: Mere Blog Theme
 email: your-email@domain.com
 description: >
   The demo site for Mere Blog Theme, made for Jekyll and GitHub pages websites
-baseurl: "/mere-blog-theme"
+baseurl: ""
 url: "https://hyyyuk.github.io"
 permalink: pretty
 
